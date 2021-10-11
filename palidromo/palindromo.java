@@ -2,7 +2,7 @@ package teste.palidromo;
 
 import java.util.Scanner;
 
-public class palindromo {
+public class Palindromo {
 
 	public static void main(String[] args) {
 
