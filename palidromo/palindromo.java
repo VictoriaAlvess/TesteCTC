@@ -1,5 +1,7 @@
 package teste.palidromo;
 
+//1. Faça um algoritmo em Java que verifique se uma String é Palíndromo.
+
 import java.util.Scanner;
 
 public class Palindromo {
